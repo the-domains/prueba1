@@ -1,6 +1,6 @@
 name: prueba1
 favicon: null
-layout_spectrum: 0.9346322428900748
+layout_spectrum: 0
 typography_spectrum: 0.7457967402879149
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.05521833198145032
-  lightness: 0.9926487789489329
-  saturation: 0.6222878945991397
-  rhythmicContrast: 0.27112004556693137
+    - '#ffffff'
+    - '#494949'
+    - '#b31c45'
+    - '#cccccc'
+    - '#969696'
+  brandStrength: 0
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0.5
 purpose: []
