@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[prueba1]]></title>
+        <description><![CDATA[prueba1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 20:22:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Iwanna Films </p>]]></description>
+            <link>undefined6b78e2fa-4ed0-4429-90d2-8781898d0197/index.html</link>
+            <guid isPermaLink="false">6b78e2fa-4ed0-4429-90d2-8781898d0197</guid>
+            <pubDate>Mon, 07 Mar 2016 20:21:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
