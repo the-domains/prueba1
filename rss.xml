@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[prueba1]]></title>
         <description><![CDATA[prueba1]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prueba1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 20:22:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 20:28:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prueba1/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Iwanna Films </p>]]></description>
-            <link>undefined6b78e2fa-4ed0-4429-90d2-8781898d0197/index.html</link>
+            <link>https://thegrid.ai/prueba1/6b78e2fa-4ed0-4429-90d2-8781898d0197/index.html</link>
             <guid isPermaLink="false">6b78e2fa-4ed0-4429-90d2-8781898d0197</guid>
-            <pubDate>Mon, 07 Mar 2016 20:21:38 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 20:27:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
