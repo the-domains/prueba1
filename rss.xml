@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[prueba1]]></title>
-        <description><![CDATA[prueba1]]></description>
+        <title><![CDATA[Iwanna Films Ltda.]]></title>
+        <description><![CDATA[Iwanna Films Ltda.]]></description>
         <link>https://thegrid.ai/prueba1/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 15:59:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 00:57:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/prueba1/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Diseñadores, animadores y artistas de efectos visuales para llevar tu visión creativa a la vida.</p>]]></description>
+            <link>https://thegrid.ai/prueba1/disenadores-animadores-y-artistas-de-efectos-visuales-para/index.html</link>
+            <guid isPermaLink="false">abbe07ce-1284-4278-b3d7-9d7d33a35b3d</guid>
+            <pubDate>Wed, 30 Mar 2016 00:57:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Iwanna Films </p>]]></description>
