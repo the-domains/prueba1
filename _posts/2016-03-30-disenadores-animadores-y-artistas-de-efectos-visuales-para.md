@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Diseñadores, animadores y artistas de efectos visuales para llevar tu visión creativa a la vida.'
-datePublished: '2016-03-30T00:57:41.434Z'
-dateModified: '2016-03-30T00:56:30.213Z'
+datePublished: '2016-03-30T00:59:25.634Z'
+dateModified: '2016-03-30T00:57:49.614Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-30-disenadores-animadores-y-artistas-de-efectos-visuales-para.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-disenadores-animadores-y-artistas-de-efectos-visuales-para.md
-published: true
 url: disenadores-animadores-y-artistas-de-efectos-visuales-para/index.html
 _type: Article
 
